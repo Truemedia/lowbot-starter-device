@@ -1,17 +1,17 @@
 {
-  "name": "lowbot-starter-device",
+  "name": "mindstack-starter-device",
   "version": "1.0.0",
-  "description": "Lowbot starter specialised for IOT/hardware",
+  "description": "Mind Stack starter specialised for IOT/hardware",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Truemedia/lowbot-starter-device.git"
+    "url": "git+https://github.com/Truemedia/mindstack-starter-device.git"
   },
   "keywords": [
-    "lowbot",
+    "mindstack",
     "starter",
     "device",
     "iot",
@@ -20,7 +20,7 @@
   "author": "Wade Penistone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Truemedia/lowbot-starter-device/issues"
+    "url": "https://github.com/Truemedia/mindstack-starter-device/issues"
   },
-  "homepage": "https://github.com/Truemedia/lowbot-starter-device#readme"
+  "homepage": "https://github.com/Truemedia/mindstack-starter-device#readme"
 }
